@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\12977F~1.2MP\\bin\\AR19DD~1.EXE -DDEBUG -DHSI_VALUE=8000000 -DSTM32F103xB -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Devices\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\CMSIS\\Include -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -mcpu=cortex-m3 -mthumb -Wall -fdata-sections -ffunction-sections -o CMakeFiles\\GPIO_Bare_Metal.dir\\Core\\Src\\gpio.c.obj -c C:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Src\\gpio.c",
+  "file": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/gpio.c",
+  "output": "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/gpio.c.obj"
+},
+{
+  "directory": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\12977F~1.2MP\\bin\\AR19DD~1.EXE -DDEBUG -DHSI_VALUE=8000000 -DSTM32F103xB -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Devices\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\CMSIS\\Include -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -mcpu=cortex-m3 -mthumb -Wall -fdata-sections -ffunction-sections -o CMakeFiles\\GPIO_Bare_Metal.dir\\Core\\Src\\main.c.obj -c C:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Src\\main.c",
+  "file": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/main.c",
+  "output": "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.obj"
+},
+{
+  "directory": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\12977F~1.2MP\\bin\\AR19DD~1.EXE -DDEBUG -DHSI_VALUE=8000000 -DSTM32F103xB -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Devices\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\CMSIS\\Include -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -mcpu=cortex-m3 -mthumb -Wall -fdata-sections -ffunction-sections -o CMakeFiles\\GPIO_Bare_Metal.dir\\Core\\Src\\rcc.c.obj -c C:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Src\\rcc.c",
+  "file": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/rcc.c",
+  "output": "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj"
+},
+{
+  "directory": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\12977F~1.2MP\\bin\\AR19DD~1.EXE -DDEBUG -DHSI_VALUE=8000000 -DSTM32F103xB -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Devices\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\CMSIS\\Include -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Include  -mcpu=cortex-m3  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -mcpu=cortex-m3 -mthumb -Wall -fdata-sections -ffunction-sections -o CMakeFiles\\GPIO_Bare_Metal.dir\\Core\\Src\\system_stm32f1xx.c.obj -c C:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Src\\system_stm32f1xx.c",
+  "file": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/system_stm32f1xx.c",
+  "output": "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj"
+},
+{
+  "directory": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\12977F~1.2MP\\bin\\AR19DD~1.EXE -DDEBUG -DHSI_VALUE=8000000 -DSTM32F103xB -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Devices\\Inc -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\CMSIS\\Include -IC:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\Core\\Include  -mcpu=cortex-m3  -x assembler-with-cpp -MMD -MP -g -mcpu=cortex-m3 -mthumb -Wall -fdata-sections -ffunction-sections -o CMakeFiles\\GPIO_Bare_Metal.dir\\startup_stm32f103xb.s.obj -c C:\\Users\\DELL\\STM32-Level1-Registers-Program\\GPIO_Bare_Metal\\startup_stm32f103xb.s",
+  "file": "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/startup_stm32f103xb.s",
+  "output": "CMakeFiles/GPIO_Bare_Metal.dir/startup_stm32f103xb.s.obj"
+}
+]
