@@ -312,13 +312,13 @@
 		{
 			"backtrace" : 8,
 			"compileGroupIndex" : 0,
-			"path" : "Core/Src/rcc.c",
+			"path" : "Core/Src/system_stm32f1xx.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 8,
 			"compileGroupIndex" : 0,
-			"path" : "Core/Src/system_stm32f1xx.c",
+			"path" : "Devices/Src/rcc.c",
 			"sourceGroupIndex" : 0
 		},
 		{

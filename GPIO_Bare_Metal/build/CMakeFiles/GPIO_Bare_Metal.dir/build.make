@@ -99,24 +99,10 @@ CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.s"
 	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Core\Src\main.c -o CMakeFiles\GPIO_Bare_Metal.dir\Core\Src\main.c.s
 
-CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj: CMakeFiles/GPIO_Bare_Metal.dir/flags.make
-CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj: C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/rcc.c
-CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj: CMakeFiles/GPIO_Bare_Metal.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj"
-	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj -MF CMakeFiles\GPIO_Bare_Metal.dir\Core\Src\rcc.c.obj.d -o CMakeFiles\GPIO_Bare_Metal.dir\Core\Src\rcc.c.obj -c C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Core\Src\rcc.c
-
-CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.i"
-	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Core\Src\rcc.c > CMakeFiles\GPIO_Bare_Metal.dir\Core\Src\rcc.c.i
-
-CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.s"
-	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Core\Src\rcc.c -o CMakeFiles\GPIO_Bare_Metal.dir\Core\Src\rcc.c.s
-
 CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/GPIO_Bare_Metal.dir/flags.make
 CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj: C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/system_stm32f1xx.c
 CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/GPIO_Bare_Metal.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj -MF CMakeFiles\GPIO_Bare_Metal.dir\Core\Src\system_stm32f1xx.c.obj.d -o CMakeFiles\GPIO_Bare_Metal.dir\Core\Src\system_stm32f1xx.c.obj -c C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Core\Src\system_stm32f1xx.c
 
 CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.i: cmake_force
@@ -126,6 +112,20 @@ CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.i: cmake_force
 CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.s"
 	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Core\Src\system_stm32f1xx.c -o CMakeFiles\GPIO_Bare_Metal.dir\Core\Src\system_stm32f1xx.c.s
+
+CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj: CMakeFiles/GPIO_Bare_Metal.dir/flags.make
+CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj: C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Devices/Src/rcc.c
+CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj: CMakeFiles/GPIO_Bare_Metal.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj"
+	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj -MF CMakeFiles\GPIO_Bare_Metal.dir\Devices\Src\rcc.c.obj.d -o CMakeFiles\GPIO_Bare_Metal.dir\Devices\Src\rcc.c.obj -c C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Devices\Src\rcc.c
+
+CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.i"
+	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Devices\Src\rcc.c > CMakeFiles\GPIO_Bare_Metal.dir\Devices\Src\rcc.c.i
+
+CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.s"
+	C:\PROGRA~2\ARMGNU~1\12977F~1.2MP\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\DELL\STM32-Level1-Registers-Program\GPIO_Bare_Metal\Devices\Src\rcc.c -o CMakeFiles\GPIO_Bare_Metal.dir\Devices\Src\rcc.c.s
 
 CMakeFiles/GPIO_Bare_Metal.dir/startup_stm32f103xb.s.obj: CMakeFiles/GPIO_Bare_Metal.dir/flags.make
 CMakeFiles/GPIO_Bare_Metal.dir/startup_stm32f103xb.s.obj: C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/startup_stm32f103xb.s
@@ -144,8 +144,8 @@ CMakeFiles/GPIO_Bare_Metal.dir/startup_stm32f103xb.s.s: cmake_force
 GPIO_Bare_Metal_OBJECTS = \
 "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/gpio.c.obj" \
 "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.obj" \
-"CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj" \
 "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj" \
+"CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj" \
 "CMakeFiles/GPIO_Bare_Metal.dir/startup_stm32f103xb.s.obj"
 
 # External object files for target GPIO_Bare_Metal
@@ -153,8 +153,8 @@ GPIO_Bare_Metal_EXTERNAL_OBJECTS =
 
 GPIO_Bare_Metal.elf: CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/gpio.c.obj
 GPIO_Bare_Metal.elf: CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.obj
-GPIO_Bare_Metal.elf: CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj
 GPIO_Bare_Metal.elf: CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj
+GPIO_Bare_Metal.elf: CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj
 GPIO_Bare_Metal.elf: CMakeFiles/GPIO_Bare_Metal.dir/startup_stm32f103xb.s.obj
 GPIO_Bare_Metal.elf: CMakeFiles/GPIO_Bare_Metal.dir/build.make
 GPIO_Bare_Metal.elf: CMakeFiles/GPIO_Bare_Metal.dir/link.txt

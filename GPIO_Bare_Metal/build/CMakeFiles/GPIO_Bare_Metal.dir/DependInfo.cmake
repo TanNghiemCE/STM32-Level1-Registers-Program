@@ -31,8 +31,8 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/gpio.c" "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/gpio.c.obj" "gcc" "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/gpio.c.obj.d"
   "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/main.c" "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.obj" "gcc" "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.obj.d"
-  "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/rcc.c" "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj" "gcc" "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj.d"
   "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Core/Src/system_stm32f1xx.c" "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj" "gcc" "CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj.d"
+  "C:/Users/DELL/STM32-Level1-Registers-Program/GPIO_Bare_Metal/Devices/Src/rcc.c" "CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj" "gcc" "CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

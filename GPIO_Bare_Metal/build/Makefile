@@ -176,30 +176,6 @@ Core/Src/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GPIO_Bare_Metal.dir\build.make CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.s
 .PHONY : Core/Src/main.c.s
 
-Core/Src/rcc.obj: Core/Src/rcc.c.obj
-.PHONY : Core/Src/rcc.obj
-
-# target to build an object file
-Core/Src/rcc.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GPIO_Bare_Metal.dir\build.make CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.obj
-.PHONY : Core/Src/rcc.c.obj
-
-Core/Src/rcc.i: Core/Src/rcc.c.i
-.PHONY : Core/Src/rcc.i
-
-# target to preprocess a source file
-Core/Src/rcc.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GPIO_Bare_Metal.dir\build.make CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.i
-.PHONY : Core/Src/rcc.c.i
-
-Core/Src/rcc.s: Core/Src/rcc.c.s
-.PHONY : Core/Src/rcc.s
-
-# target to generate assembly for a file
-Core/Src/rcc.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\GPIO_Bare_Metal.dir\build.make CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/rcc.c.s
-.PHONY : Core/Src/rcc.c.s
-
 Core/Src/system_stm32f1xx.obj: Core/Src/system_stm32f1xx.c.obj
 .PHONY : Core/Src/system_stm32f1xx.obj
 
@@ -224,6 +200,30 @@ Core/Src/system_stm32f1xx.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GPIO_Bare_Metal.dir\build.make CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.s
 .PHONY : Core/Src/system_stm32f1xx.c.s
 
+Devices/Src/rcc.obj: Devices/Src/rcc.c.obj
+.PHONY : Devices/Src/rcc.obj
+
+# target to build an object file
+Devices/Src/rcc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GPIO_Bare_Metal.dir\build.make CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.obj
+.PHONY : Devices/Src/rcc.c.obj
+
+Devices/Src/rcc.i: Devices/Src/rcc.c.i
+.PHONY : Devices/Src/rcc.i
+
+# target to preprocess a source file
+Devices/Src/rcc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GPIO_Bare_Metal.dir\build.make CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.i
+.PHONY : Devices/Src/rcc.c.i
+
+Devices/Src/rcc.s: Devices/Src/rcc.c.s
+.PHONY : Devices/Src/rcc.s
+
+# target to generate assembly for a file
+Devices/Src/rcc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GPIO_Bare_Metal.dir\build.make CMakeFiles/GPIO_Bare_Metal.dir/Devices/Src/rcc.c.s
+.PHONY : Devices/Src/rcc.c.s
+
 startup_stm32f103xb.obj: startup_stm32f103xb.s.obj
 .PHONY : startup_stm32f103xb.obj
 
@@ -247,12 +247,12 @@ help:
 	@echo ... Core/Src/main.obj
 	@echo ... Core/Src/main.i
 	@echo ... Core/Src/main.s
-	@echo ... Core/Src/rcc.obj
-	@echo ... Core/Src/rcc.i
-	@echo ... Core/Src/rcc.s
 	@echo ... Core/Src/system_stm32f1xx.obj
 	@echo ... Core/Src/system_stm32f1xx.i
 	@echo ... Core/Src/system_stm32f1xx.s
+	@echo ... Devices/Src/rcc.obj
+	@echo ... Devices/Src/rcc.i
+	@echo ... Devices/Src/rcc.s
 	@echo ... startup_stm32f103xb.obj
 .PHONY : help
 

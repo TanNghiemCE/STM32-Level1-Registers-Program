@@ -1,7 +1,0 @@
-# ninja log v7
-29	157	8107396131622862	CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/gpio.c.obj	e85e524f2487a9e7
-38	159	8107396131704467	CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.obj	ed84569975bb9604
-62	167	8107396131950994	CMakeFiles/GPIO_Bare_Metal.dir/startup_stm32f103xb.s.obj	6a3511df95297fed
-50	241	8107396131812643	CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/system_stm32f1xx.c.obj	d954b978b791cf44
-23	342	8107467163253424	CMakeFiles/GPIO_Bare_Metal.dir/Core/Src/main.c.obj	ed84569975bb9604
-342	593	8107467166438833	GPIO_Bare_Metal.elf	55e48c56ac3a46
